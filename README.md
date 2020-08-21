@@ -30,7 +30,7 @@ no authorization deixar como no auth, body selecione raw e utilizar a linha abai
 ```
 
 ### Codigo fonte
-$ git clone https://github.com/ederwfranca/desafio_cloud_sre.git
+$ git clone https://github.com/ederwfranca/desafio_cloud
 
 ##Na pasta web-API temos o codigo em Nodejs e um em Python
 
